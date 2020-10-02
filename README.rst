@@ -69,6 +69,6 @@ In order to foster a kind, inclusive, and harassment-free community, the Pinax P
 Pinax Project Blog and Twitter
 -------------------------------
 
-For updates and news regarding the Pinax Project, please follow us on Twitter at @pinaxproject and check out our blog http://blog.pinaxproject.com.
+For updates and regarding the Pinax Project, please follow us on Twitter at @pinaxproject and check out our blog http://blog.pinaxproject.com.
 
 
